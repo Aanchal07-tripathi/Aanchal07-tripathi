@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aanchal Tripathi</h1>
 
-<!--
-**Aanchal07-tripathi/Aanchal07-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Data Engineer | Java Developer | AI/ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+🎓 B.Tech in Computer Science (Data Science) at NIET Greater Noida
+
+💡 Passionate about solving real-world problems through technology.
+
+🌱 Currently learning
+- Data Structures & Algorithms (Java)
+- JavaScript & Node.js
+- Machine Learning
+
+🎯 Career Goal
+- Data Engineer
+- AI Engineer
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+- Java
+- Python
+- SQL
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Tableau
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🚀 Projects
+
+📌 University Management System (Python)
+
+📌 Student Management System (Java Swing)
+
+📌 HR Analytics Dashboard (Tableau)
+
+---
+
+## 📚 Currently Working On
+
+- LeetCode DSA
+- Machine Learning Projects
+- Open Source Learning
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn:
+www.linkedin.com/in/aanchal-tripathi-3770812a6
+
+📧 Email:
+tripathiaanchal68@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
