@@ -2,75 +2,115 @@
 
 <h3 align="center">Aspiring Data Engineer | Java Developer | AI/ML Enthusiast</h3>
 
----
-
-## 👩‍💻 About Me
-
-🎓 B.Tech in Computer Science (Data Science) at NIET Greater Noida
-
-💡 Passionate about solving real-world problems through technology.
-
-🌱 Currently learning
-- Data Structures & Algorithms (Java)
-- JavaScript & Node.js
-- Machine Learning
-
-🎯 Career Goal
-- Data Engineer
-- AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;B.Tech+CSE+(Data+Science)+Student;Java+%7C+Python+%7C+SQL+Developer;DSA+Learner;Future+Data+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-**Languages**
-- Java
-- Python
-- SQL
-- JavaScript
+🎓 **B.Tech in Computer Science (Data Science)**  
+📍 **Noida Institute of Engineering and Technology (NIET), Greater Noida**
 
-**Frontend**
-- HTML
-- CSS
+💡 I enjoy building practical software, solving coding problems, and continuously learning modern technologies.
 
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- Tableau
-- VS Code
-- IntelliJ IDEA
+- 🌱 Currently learning **Data Structures & Algorithms (Java)**
+- 💻 Exploring **JavaScript**, **Node.js**, and **Machine Learning**
+- 🤖 Interested in **AI**, **Data Engineering**, and **Backend Development**
+- 🧩 Regularly solving problems on **LeetCode**
+- 🎯 Goal: Become a **Data Engineer**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-📌 University Management System (Python)
-
-📌 Student Management System (Java Swing)
-
-📌 HR Analytics Dashboard (Tableau)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,git,github,vscode,idea,tableau&perline=6" />
+</p>
 
 ---
 
-## 📚 Currently Working On
+## 📂 Featured Projects
 
-- LeetCode DSA
-- Machine Learning Projects
-- Open Source Learning
+### 🎓 University Management System
+A Python GUI application for managing university records efficiently.
 
----
+### 👨‍🎓 Student Management System
+Java Swing application implementing CRUD operations using Collections and Exception Handling.
 
-## 📫 Connect with Me
+### 📊 HR Analytics Dashboard
+Interactive Tableau dashboard for analyzing employee performance and business insights.
 
-💼 LinkedIn:
-www.linkedin.com/in/aanchal-tripathi-3770812a6
-
-📧 Email:
-tripathiaanchal68@gmail.com
+### 🤖 AI & Machine Learning
+Currently building real-world AI/ML projects to strengthen practical skills.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aanchal07-tripathi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal07-tripathi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aanchal07-tripathi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aanchal07-tripathi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ✅ Data Structures & Algorithms (Java)
+- ✅ JavaScript & Node.js
+- ✅ Machine Learning
+- ✅ SQL
+- ✅ System Design (Basics)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aanchal-tripathi-3770812a6/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> **"Consistency is the key to mastering any skill."**
+
+---
+
+<p align="center">
+⭐ If you like my work, don't forget to ⭐ my repositories!
+</p>
