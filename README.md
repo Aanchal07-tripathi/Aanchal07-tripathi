@@ -69,16 +69,6 @@ Currently building real-world AI/ML projects to strengthen practical skills.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aanchal07-tripathi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - ✅ Data Structures & Algorithms (Java)
@@ -97,7 +87,7 @@ Currently building real-world AI/ML projects to strengthen practical skills.
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:tripathiaanchal68@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
